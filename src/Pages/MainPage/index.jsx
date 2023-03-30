@@ -16,7 +16,7 @@ const MainPage = () => {
       product.vendor.toLowerCase().includes(search.toLowerCase()))
       .map(item=>{
             return (
-             <ProductCard key={item.id} product={item} btnName={"Buy Now"}/>
+             <ProductCard key={item.id} product={item}/>
             )
           })}
      
