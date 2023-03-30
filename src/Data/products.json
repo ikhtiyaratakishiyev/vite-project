@@ -1,0 +1,57 @@
+
+ [
+    {
+        "id":1,
+        "img": "./BMW.png",
+        "vendor":"BMW",
+        "model":"M8",
+        "engine": 4.4,
+        "price": 139000,
+        "valyuta":"$"
+    },
+    {
+      "id": 2,
+      "img": "./Mercedess.png",
+      "vendor": "Mercedes",
+      "model": "E 220",
+      "engine": 2.2,
+      "price": 56000,
+      "valyuta": "azn"
+    },
+    {
+      "id": 3,
+      "img":"./Opel.png",
+      "vendor": "Opel",
+      "model": "Astra",
+      "engine": 2.0,
+      "price": 9000,
+      "valyuta": "azn"
+    },
+    {
+      "id": 4,
+      "img":"./Sonata.png",
+      "vendor": "Hundai",
+      "model": "Sonata",
+      "engine": 2.4,
+      "price": 59000,
+      "valyuta": "azn"
+    },
+    {
+      "id": 5,
+      "img":"./Kia.png",
+      "vendor": "Kia",
+      "model": "Sorento",
+      "engine": 2.5,
+      "price": 32000,
+      "valyuta": "$"
+    }
+    ,  {
+      "id": 6,
+      "img":"./Lambo.png",
+      "vendor": "Lambo",
+      "model": "Aventodor",
+      "engine": 7.0,
+      "price": 82000,
+      "valyuta": "$"
+    }
+]

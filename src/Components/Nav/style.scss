@@ -1,0 +1,47 @@
+nav {
+    .container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 40px 30px;
+      h1 {
+        font-size: 32px;
+        color: rebeccapurple;
+        letter-spacing: 1px;
+        cursor: pointer;
+      }
+      ul {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        li {
+          cursor: pointer;
+          transition: background-color 3s ease;
+          &:hover{
+            color: gray;
+            font-size: 20px;
+            
+          }
+        }
+      }
+      .btn-c {
+          display: flex;
+          gap: 10px;
+          align-items: center;
+        input {
+          padding: 8px 16px;
+          border: 1px solid gray;
+          border-radius: 8px;
+        }
+        button {
+          padding: 8px 16px;
+          font-size: 18px;
+          letter-spacing: 1px;
+          background: rebeccapurple;
+          color: #fff;
+          border-radius: 8px;
+          font-weight: 600;
+        }
+      }
+    }
+  }
