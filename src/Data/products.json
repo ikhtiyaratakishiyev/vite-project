@@ -7,7 +7,7 @@
         "model":"M8",
         "engine": 4.4,
         "price": 139000,
-        "valyuta":"$"
+        "valyuta":""
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "model": "E 220",
       "engine": 2.2,
       "price": 56000,
-      "valyuta": "azn"
+      "valyuta": ""
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "model": "Astra",
       "engine": 2.0,
       "price": 9000,
-      "valyuta": "azn"
+      "valyuta": ""
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "model": "Sonata",
       "engine": 2.4,
       "price": 59000,
-      "valyuta": "azn"
+      "valyuta": ""
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "model": "Sorento",
       "engine": 2.5,
       "price": 32000,
-      "valyuta": "$"
+      "valyuta": ""
     }
     ,  {
       "id": 6,
@@ -52,6 +52,6 @@
       "model": "Aventodor",
       "engine": 7.0,
       "price": 82000,
-      "valyuta": "$"
+      "valyuta": ""
     }
 ]
